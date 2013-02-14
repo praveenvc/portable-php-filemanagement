@@ -3,7 +3,9 @@ portable-php-filemanagement
 
 portable file mangement
 
-Developer : Praveen.cholachagudd.
+file management for cms.
+
+
 
 
 
